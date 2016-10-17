@@ -1,6 +1,6 @@
 # SYNOPSIS
 
-A simple wrapper against Net::Ping to identify if host is alive.
+A simple wrapper around Net::Ping to identify if host is alive.
 
 # INSTALL
 
@@ -10,5 +10,10 @@ A simple wrapper against Net::Ping to identify if host is alive.
 
     $ sparrow plg run net-ping host=sparrowhub.org
 
+# See also 
+
+[Net::Ping](https://metacpan.org/pod/Net::Ping)
+
 # Author
+
 [Alexey Melezhik](mailto:melezhik@gmail.com)
